@@ -1,14 +1,14 @@
 ---
 layout: main-page
-title: #BigDataMining BigMine 17
+title: #BigDataMining BigMine 18
 search_omit: false
 image:
   feature: sf1.png
 ---
 
-**6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
+**7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-[KDD 2017](www.kdd.org/kdd2017/), August 14, Halifax, Nova Scotia, Canada
+[KDD 2018](www.kdd.org/kdd2018/), August 14, London, UK
 
 Previous KDD BigMines in 
 
