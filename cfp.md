@@ -57,8 +57,8 @@ More details on submission: https://bigmine.github.io/bigmine18/submission.html
 Key Dates
 ---------
 
-Papers due: June 8th 23:59PM Pacific Standard Time   
-Acceptance notification: June 15, 2018     
+Papers due: May 8 23:59PM Pacific Standard Time   
+Acceptance notification: June 8, 2018     
 Workshop Final Paper Due: June 29, 2018     
 
 
