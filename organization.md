@@ -11,33 +11,33 @@ Workshop Chairs
 Telecom-ParisTech  
 E-mail: albert.bifet at telecom-paristech.fr
 
-* Inderjit Dhillon
-University of Texas at Austin
-E-mail:
+* Inderjit Dhillon  
+University of Texas at Austin  
+E-mail: inderjit at cs.utexas.edu
 
 * Wei Fan  
 Baidu Research Big Data Lab  
 E-mail: wei.fan at gmail.com
 
-* Cho-Jui Hsieh
-University of California, Davis
-E-mail:
+* Cho-Jui Hsieh  
+University of California, Davis  
+E-mail: chojui.hsieh at gmail.com 
 
-* Sanjiv Kumar
-Google Research
-E-mail:
+* Sanjiv Kumar  
+Google Research  
+E-mail: sanjivk at google.com 
 
-* Yang Li
-Google Research
-E-mail:
+* Yang Li  
+Google Research  
+E-mail: liyang at google.com
 
 * Jesse Read  
 École Polytechnique  
 E-mail: jesse.read at polytechnique.edu
 
-* Si Si
-Google Research
-E-mail:
+* Si Si  
+Google Research  
+E-mail: sisidaisy at google.com
 
 * Philip Yu  
 University of Illinois at Chicago  

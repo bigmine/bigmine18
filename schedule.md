@@ -12,12 +12,6 @@ Start Time: 8am
 Coffee breaks at 10:00am-10:30am and 3:00pm-3:30pm  
 Lunch 12-1pm  
 End time: 5pm  
--->
-
-Preliminary schedule:
-Coming soon...
-<!--
-M
 | -Time-  | Description |
 | --- | --- |
 | 8:00--8:05 | **Opening Remarks** |
@@ -39,6 +33,10 @@ M
 | 16:25--16:55 | **Paper Session 4** |
 |               | *dLSTM: a new approach for anomaly detection using deep learning with delayed prediction* |
 | 16:55--17:00 | **Final Remarks** |
+
 -->
+
+Preliminary schedule:
+Coming soon...
 
 
