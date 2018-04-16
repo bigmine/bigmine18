@@ -5,12 +5,12 @@ image:
   feature: sf1.png
 ---
 
-**Big Data Mining (KDD BigMine-17)**   
-The 6th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2017 Workshop
+**Big Data Mining (KDD BigMine-18)**   
+The 7th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2018 Workshop
    
-KDD2017 Conference Dates: August 13-17, 2017  
-Workshop Date: Aug 14, 2017  
-Halifax, Nova Scotia
+KDD2018 Conference Dates: August 19-23, 2018  
+Workshop Date: Aug 20, 2018  
+London, United Kingdom
 
 http://www.bigdata-mining.org
 
@@ -26,8 +26,6 @@ We invite submission of papers describing innovative research on all aspects of 
 
 Papers emphasizing theoretical foundations, algorithms, systems, applications, language issues, data storage and access, architecture are particularly encouraged.
 
-A Special Issue in the International Journal of Data Science and Analytics been allocated for selected papers accepted in the workshop (see below).
-
 
 Topics
 ------
@@ -35,14 +33,19 @@ Topics
 Examples of topics of interest include
 
 * Scalable, Distributed and Parallel Algorithms
+* Designing light­weighted data mining algorithm
 * New Programming Model for Large Data beyond Hadoop/MapReduce, STORM, streaming languages
+* Federated training using data from multiple devices
 * Mining Algorithms of Data in non-traditional formats (unstructured, semi-structured)
 * Applications: social media, Internet of Things, Smart Grid, Smart Transportation Systems
 * Streaming Data Processing
 * Heterogeneous Sources and Format Mining
+* Privacy issues of on-­device user data
 * Systems Issues related to large datasets: clouds, streaming system, architecture, and issues beyond cloud and streams.
+* System and platform for on­-device learning
 * Interfaces to database systems and analytics.
 * Evaluation Technologies
+* Integrating the design of human ­computer interaction with machinelearning algorithms
 * Visualization for Big Data
 * Applications: Large scale recommendation systems, social media systems, social network systems, scientific data mining, environmental, urban and other large data mining applications.
 
@@ -52,33 +55,26 @@ Submission
 
 Submitted papers will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable. Authors are strongly encouraged to make data and code publicly available whenever possible.
 
-More details on submission: https://bigmine.github.io/bigmine17/submission.html
-
-
-Journal Track
--------------
-
-The authors of accepted papers will be invited to revise and expand their papers to be considered for publication in the Special Issue of the International Journal of Data Science and Analytics (JDSA): S.I. Big Data, IoT Streams and Heterogeneous Source Mining.
-
-Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria as any paper accepted in the special issue, and will have to satisfy the high standards of the journal. 
-
-We also encourage general submissions to the special issue, which covers the same scope and topics as the workshop.
-
+More details on submission: https://bigmine.github.io/bigmine18/submission.html
 
 Key Dates
 ---------
 
-Papers due: May 26th 23:59PM Pacific Standard Time   
-Acceptance notification: June 16, 2017     
-Workshop Final Paper Due: June 30, 2017     
+Papers due: June 8th 23:59PM Pacific Standard Time   
+Acceptance notification: June 15, 2018     
+Workshop Final Paper Due: June 29, 2018     
 
 
 Workshop Chairs
 ---------------
-
-* Wei Fan, Baidu Research Big Data Lab
 * Albert Bifet, Telecom-ParisTech
+* Inderjit Dhillon, University of Texas at Austin
+* Wei Fan, Baidu Research Big Data Lab
+* Cho-Jui Hsieh, University of California, Davis
+* Sanjiv Kumar, Google Research
+* Yang Li, Google Research
 * Jesse Read, Ecole Polytechnique
-* Qiang Yang, Hong Kong University of Science and Technology
+* Si Si, Google Research
 * Philip Yu, University of Illinois at Chicago
+* Qiang Yang, Hong Kong University of Science and Technology
 
