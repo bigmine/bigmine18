@@ -2,6 +2,6 @@
 layout: page
 title: Keynotes
 image:
-  feature: sf1.png
+  feature: london.jpg
 ---
 Coming soon...

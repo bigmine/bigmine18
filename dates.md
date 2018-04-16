@@ -2,7 +2,7 @@
 layout: page
 title: Dates 
 image:
-  feature: sf1.png
+  feature: london.jpg
 ---
 Coming soon...
 
