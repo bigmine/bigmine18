@@ -8,7 +8,7 @@ image:
 
 **7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-[KDD 2018](http://www.kdd.org/kdd2018/), August 14, London, UK
+[KDD 2018](http://www.kdd.org/kdd2018/), August 20, London, UK
 
 Previous KDD BigMines in 
 

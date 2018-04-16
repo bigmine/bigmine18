@@ -15,7 +15,9 @@ End time: 5pm
 -->
 
 Preliminary schedule:
-
+Coming soon...
+<!--
+M
 | -Time-  | Description |
 | --- | --- |
 | 8:00--8:05 | **Opening Remarks** |
@@ -37,4 +39,6 @@ Preliminary schedule:
 | 16:25--16:55 | **Paper Session 4** |
 |               | *dLSTM: a new approach for anomaly detection using deep learning with delayed prediction* |
 | 16:55--17:00 | **Final Remarks** |
+-->
+
 

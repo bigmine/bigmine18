@@ -7,49 +7,45 @@ image:
 
 Workshop Chairs
 ==========
+* Albert Bifet  
+Telecom-ParisTech  
+E-mail: albert.bifet at telecom-paristech.fr
+
+* Inderjit Dhillon
+University of Texas at Austin
+E-mail:
+
 * Wei Fan  
 Baidu Research Big Data Lab  
 E-mail: wei.fan at gmail.com
 
-* Albert Bifet  
-Telecom-ParisTech  
-E-mail: albert.bifet at telecom-paristech.fr
+* Cho-Jui Hsieh
+University of California, Davis
+E-mail:
+
+* Sanjiv Kumar
+Google Research
+E-mail:
+
+* Yang Li
+Google Research
+E-mail:
 
 * Jesse Read  
 École Polytechnique  
 E-mail: jesse.read at polytechnique.edu
 
-* Qiang Yang  
-Hong Kong University of Science and Technology  
-E-mail: qyang (at) cse (dot) ust (dot) hk
+* Si Si
+Google Research
+E-mail:
 
 * Philip Yu  
 University of Illinois at Chicago  
 E-mail: psyu at cs.uic.edu
 
-Organizers
-==========
-* Albert Bifet, Telecom ParisTech
-* Wei Fan, Baidu Research Big Data Lab
-* Jing Gao, University at Buffalo
-* Le Gruenwald, University of Oklahoma
-* Dimitrios Gunopulos, University of Athens
-* Geoff Holmes, University of Waikato
-* Latifur Khan, University of Texas at Dallas
-* Dekang Lin, Google
-* Jesse Read, École Polytechnique
-* Deepak Turaga, IBM T.J. Watson Research
-* Qiang Yang, Hong Kong University of Science and Technology
-* Philip Yu, University of Illinois at Chicago
-* Kun Zhang, Xavier University of Louisiana
-* Xiatian Zhang, TalkingData. Ltd.
-* Yuanchun Zhou, Chinese Academy of Sciences
-
-Poster and Reception Chairs
-==========
-* Xiatian Zhang, TalkingData. Ltd.
-* Xian Wu, Microsoft
-
+* Qiang Yang  
+Hong Kong University of Science and Technology  
+E-mail: qyang (at) cse (dot) ust (dot) hk
 
 Program Committee
 ==========

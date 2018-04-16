@@ -4,7 +4,8 @@ title: Keynotes
 image:
   feature: sf1.png
 ---
-
+Coming soon!
+<!-- 
 ## Jure Leskovec (Stanford University) - Mining Online Networks and Communities
 
 The Internet and the Web fundamentally changed how we live our daily lives as well as broadened the scope of computer science. Today the Web is a `sensor' that captures the pulse of humanity and allows us to observe phenomena that were once essentially invisible to us. These phenomena include the social interactions and collective behavior of hundreds of millions of people, recorded at unprecedented levels of scale and resolution. Analyzing this data offers novel algorithmic as well as computational challenges. Moreover, it offers new insights into the design of information systems in the presence of complex social feedback effects, as well as a new perspective on fundamental questions in the social sciences.
@@ -61,4 +62,4 @@ datacenter-scale deep learning.
 <img style="float: right;" src="images/kai.jpg" width="100"> 
 | *Bio*: Kai Chen is an Associate Professor with Department of Computer Science and Engineering, Hong Kong University of Science and Technology. He received his PhD in Computer Science from Northwestern University, Evanston IL in 2012. His research interests include networked systems design and implementation, data center networks, and networking support for cloud, big-data and deep-learning/AI systems.  He values practical system research, has published in various top venues such as SIGCOMM and NSDI, and is now actively working with IT companies such as Tencent, Huawei, Microsoft, Nvidia, etc., to translate his research into practice. | |
 
-
+-->

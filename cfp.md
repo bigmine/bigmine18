@@ -14,9 +14,6 @@ London, United Kingdom
 
 http://www.bigdata-mining.org
 
-Associated with the Special Issue of the International Journal of Data Science and Analytics (JDSA): Big Data, IoT Streams and Heterogeneous Source Mining.
-
-
 Scope
 -----
 
