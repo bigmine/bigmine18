@@ -3,7 +3,7 @@ layout: main-page
 title: #BigDataMining BigMine 18
 search_omit: false
 image:
-  feature: sf1.png
+  feature: london.jpg
 ---
 
 **7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
