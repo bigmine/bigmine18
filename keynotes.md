@@ -2,6 +2,6 @@
 layout: page
 title: Keynotes
 image:
-  feature: london.jpg
+  feature: london2.jpg
 ---
 Coming soon...

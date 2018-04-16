@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 image:
-  feature: london.jpg
+  feature: london2.jpg
 ---
 
 **Big Data Mining (KDD BigMine-18)**   

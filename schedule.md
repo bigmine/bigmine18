@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 image:
-  feature: london.jpg
+  feature: london2.jpg
 ---
 Preliminary schedule:
 Coming soon...

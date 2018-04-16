@@ -2,7 +2,7 @@
 layout: page
 title: Organization
 image:
-  feature: london.jpg
+  feature: london2.jpg
 ---
 
 Workshop Chairs
