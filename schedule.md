@@ -4,6 +4,8 @@ title: Schedule
 image:
   feature: sf1.png
 ---
+Preliminary schedule:
+Coming soon...
 
 <!--
 More details to be announced
@@ -12,6 +14,7 @@ Start Time: 8am
 Coffee breaks at 10:00am-10:30am and 3:00pm-3:30pm  
 Lunch 12-1pm  
 End time: 5pm  
+
 | -Time-  | Description |
 | --- | --- |
 | 8:00--8:05 | **Opening Remarks** |
@@ -35,8 +38,5 @@ End time: 5pm
 | 16:55--17:00 | **Final Remarks** |
 
 -->
-
-Preliminary schedule:
-Coming soon...
 
 
