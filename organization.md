@@ -19,8 +19,8 @@ E-mail: inderjit at cs.utexas.edu
 Baidu Research Big Data Lab  
 E-mail: wei.fan at gmail.com
 
-* Marwan Hassani
-Eindhoven University of Technology
+* Marwan Hassani 
+Eindhoven University of Technology 
 E-mail: M.Hassani at tue.nl
 
 * Cho-Jui Hsieh  
