@@ -19,13 +19,13 @@ E-mail: inderjit at cs.utexas.edu
 Baidu Research Big Data Lab  
 E-mail: wei.fan at gmail.com
 
-* Marwan Hassani 
-Eindhoven University of Technology 
-E-mail: M.Hassani at tue.nl
-
 * Cho-Jui Hsieh  
 University of California, Davis  
 E-mail: chojui.hsieh at gmail.com 
+
+* Marwan Hassani
+Eindhoven University of Technology
+E-mail: M.Hassani at tue.nl
 
 * Sanjiv Kumar  
 Google Research  
