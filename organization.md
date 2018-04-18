@@ -49,7 +49,7 @@ E-mail: psyu at cs.uic.edu
 
 * Qiang Yang  
 Hong Kong University of Science and Technology  
-E-mail: qyang (at) cse (dot) ust (dot) hk
+E-mail: qyang at cse.ust.hk
 
 Program Committee
 ==========
