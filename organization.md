@@ -19,6 +19,10 @@ E-mail: inderjit at cs.utexas.edu
 Baidu Research Big Data Lab  
 E-mail: wei.fan at gmail.com
 
+* Marwan Hassani 
+Eindhoven University of Technology
+E-mail: m.hassani at tue.nl
+
 * Cho-Jui Hsieh  
 University of California, Davis  
 E-mail: chojui.hsieh at gmail.com 
@@ -45,7 +49,7 @@ E-mail: psyu at cs.uic.edu
 
 * Qiang Yang  
 Hong Kong University of Science and Technology  
-E-mail: qyang (at) cse (dot) ust (dot) hk
+E-mail: qyang at cse.ust.hk
 
 Program Committee
 ==========
