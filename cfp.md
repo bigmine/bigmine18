@@ -12,7 +12,7 @@ KDD2018 Conference Dates: August 19-23, 2018
 Workshop Date: Aug 20, 2018  
 London, United Kingdom
 
-http://www.bigdata-mining.org
+https://bigmine.github.io/bigmine18/
 
 Scope
 -----
@@ -56,12 +56,9 @@ More details on submission: https://bigmine.github.io/bigmine18/submission.html
 
 Key Dates
 ---------
-<!-- 
-
-Papers due: May 8 23:59PM Pacific Standard Time   
-Acceptance notification: June 8, 2018     
-Workshop Final Paper Due: June 29, 2018     
--->
+* Paper Submission deadline: May 18, 2018, 23:59PM Pacific Standard Time
+* Acceptance notification: June 18, 2018
+* Workshop: August 20, 2018
 
 Workshop Chairs
 ---------------
