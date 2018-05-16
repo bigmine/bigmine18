@@ -65,6 +65,7 @@ Workshop Chairs
 * Albert Bifet, Telecom-ParisTech
 * Inderjit Dhillon, University of Texas at Austin
 * Wei Fan, Baidu Research Big Data Lab
+* Marwan Hassani, Eindhoven University of Technology
 * Cho-Jui Hsieh, University of California, Davis
 * Sanjiv Kumar, Google Research
 * Yang Li, Google Research
