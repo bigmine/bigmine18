@@ -7,6 +7,8 @@ image:
 
 Workshop Chairs
 ==========
+Please email: bigmine2018@gmail.com for any query.
+
 * Albert Bifet  
 Telecom-ParisTech  
 E-mail: albert.bifet at telecom-paristech.fr
