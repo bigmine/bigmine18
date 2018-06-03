@@ -53,6 +53,30 @@ E-mail: psyu at cs.uic.edu
 Hong Kong University of Science and Technology  
 E-mail: qyang at cse.ust.hk
 
+Organizers
+==========
+* Albert Bifet, Telecom ParisTech
+* Inderjit Dhillon, University of Texas at Austin 
+* Wei Fan, Baidu Research Big Data Lab
+* Jing Gao, University at Buffalo
+* Le Gruenwald, University of Oklahoma
+* Dimitrios Gunopulos, University of Athens
+* Marwan Hassani, Eindhoven University of Technology   
+* Geoff Holmes, University of Waikato
+* Cho-Jui Hsieh, University of California, Davis 
+* Latifur Khan, University of Texas at Dallas
+* Sanjiv Kumar, Google Research
+* Yang Li, Google Research
+* Dekang Lin, Google
+* Jesse Read, École Polytechnique
+* Si Si, Google Research 
+* Deepak Turaga, IBM T.J. Watson Research
+* Qiang Yang, Hong Kong University of Science and Technology
+* Philip Yu, University of Illinois at Chicago
+* Kun Zhang, Xavier University of Louisiana
+* Xiatian Zhang, TalkingData. Ltd.
+* Yuanchun Zhou, Chinese Academy of Sciences
+
 Program Committee
 ==========
 
