@@ -20,7 +20,7 @@ rate changes. Techniques: we have developed the Extremely Fast Decision
 Tree, a statistically more efficient variant of the incremental learning
 workhorse, the Very Fast Decision Tree.
 
-<img style="float: right;" src="images/Webb.jpg" width="100"> 
+<img style="float: right;" src="images/Webb.jpg" width="200"> 
 | *Bio*: Geoff Webb is a leading data scientist. He is Director of the Monash
 University Centre for Data Science and a Technical Advisor to data science
 startups FROOMLE and BigML Inc. The latter have incorporated his best of
@@ -47,7 +47,7 @@ One of the main computational challenges we address in this work is related to t
 This is a collaborative work with political scientists, Dr. Patrick Brandt and Dr. Jennifer Holmes, funded by NSF.
 
 
-<img style="float: right;" src="images/khan.jpg" width="100"> 
+<img style="float: right;" src="images/khan.jpg" width="200"> 
 | *Bio*: Dr. Latifur Khan is currently a full Professor (tenured) in the Computer Science department at the University of Texas at Dallas, USA where he has been teaching and conducting research since September 2000. He received his Ph.D. degree in Computer Science from the University of Southern California (USC) in August of 2000. 
 
 Dr. Khan is an ACM Distinguished Scientist. He has received prestigious awards including the IEEE Technical Achievement Award for Intelligence and Security Informatics and IBM Faculty Award (research) 2016.
