@@ -17,8 +17,8 @@ End time: 5pm
 
 -->
 
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Description |
-| ---------------- | ------------------------------------------- |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Time &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| :---  | :---  |
 | 8:00-8:10 | **Opening Remarks** |
 | 8:10-9:00 | **Invited Talk by Manik Varma (Microsoft Research)**  |
 | 9:00-9:30  | **Paper Session 1** |
