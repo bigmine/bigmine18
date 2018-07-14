@@ -20,7 +20,8 @@ End time: 5pm
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  Time &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | :---  | :---  |
 | 8:00-8:10 | **Opening Remarks** |
-| 8:10-9:00 | **Invited Talk by Manik Varma (Microsoft Research)**  |
+| 8:10-9:00 | **Invited Talk by Manik Varma (Microsoft Research India)**  |
+|               |*The Extremes of Machine Learning*|
 | 9:00-9:30  | **Paper Session 1** |
 |               | *Temporal Approach to Opinion Fraud Detection*  |
 | 9:30-10:00 | **Coffee Break** |
