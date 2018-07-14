@@ -29,11 +29,13 @@ End time: 5pm
 |               | *Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series*  |
 |               | *Fall Detection from Physical Activity Monitoring Data*	 |
 | 12:00-13:00 | **Lunch Break** |
-| 13:00-14:00 | **Invited Talk by Geoff Webb (Monash University)** *Learning in a dynamic and ever changing world* |
+| 13:00-14:00 | **Invited Talk by Geoff Webb (Monash University)** | 
+| |*Learning in a dynamic and ever changing world* |
 | 14:00-14:30 | **Paper Session 3** |
 |               | *Learn to Combine Modalities in Multimodal Deep Networks* |
 | 14:30-15:00 | **Coffee Break** |
-| 15:00-15:55 | **Invited Talk by Latifur Khan (Department of Computer Science, University of Texas at Dallas)** *Data to Knowledge: Modernizing Political Event Data for Big Data Social Science Research* |
+| 15:00-15:55 | **Invited Talk by Latifur Khan (Department of Computer Science, University of Texas at Dallas)** | 
+| | *Data to Knowledge: Modernizing Political Event Data for Big Data Social Science Research* |
 | 15:55-16:55 | **Paper Session 4** |
 |               | *GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking* |
 |               | *Challenges and Experiences in Building an Interactive Enterprise-Scale B2B Recommender System with Natural Language Support* |
