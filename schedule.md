@@ -34,7 +34,7 @@ End time: 5pm
 | 14:00-14:30 | **Paper Session 3** |
 |               | *Learn to Combine Modalities in Multimodal Deep Networks* |
 | 14:30-15:00 | **Coffee Break** |
-| 15:00-15:55 | **Invited Talk by Latifur Khan (Department of Computer Science, University of Texas at Dallas)** | 
+| 15:00-15:55 | **Invited Talk by Latifur Khan (University of Texas at Dallas)** | 
 | | *Data to Knowledge: Modernizing Political Event Data for Big Data Social Science Research* |
 | 15:55-16:55 | **Paper Session 4** |
 |               | *GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking* |
