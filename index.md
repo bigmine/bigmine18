@@ -22,7 +22,7 @@ Previous KDD BigMines in
 
 Previous Keynote Speakers:
 -----------------------
-<p><img src="images/150x-JureLeskovec.pg" alt="JL" height="105" /> 
+<p><img src="images/150x-JureLeskovec.jpg" alt="JL" height="105" /> 
 <img src="images/150x-martin.png" alt="MW" height="105" /> 
 <img src="images/150x-huanliu2014.jpg" alt="HL" height="105" /> 
 <img src="images/150x-kai.jpg" alt="KC" height="105" /> 
