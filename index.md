@@ -22,14 +22,21 @@ Previous KDD BigMines in
 
 Previous Keynote Speakers:
 -----------------------
+<p><img src="images/Jureleskovec" alt="JL" height="105" /> 
+<img src="images/martin.png" alt="MW" height="105" /> 
+<img src="images/huanliu2014.jpg" alt="HL" height="105" /> 
+<img src="images/kai.jpg" alt="KC" height="105" /> 
+</p>
 <p><img src="images/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
 <img src="images/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
 <img src="images/Guirong.jpg" alt="Guirong Xue" height="100" /> 
-</p><p>
+</p>
+<p>
 <img src="images/hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
 <img src="images/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
 <img src="images/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
-</p><p>
+</p>
+<p>
 <a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="images/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="images/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="images/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
 </p>
 <p>
