@@ -22,10 +22,10 @@ Previous KDD BigMines in
 
 Previous Keynote Speakers:
 -----------------------
-<p><img src="images/Jureleskovec" alt="JL" height="105" /> 
-<img src="images/martin.png" alt="MW" height="105" /> 
-<img src="images/huanliu2014.jpg" alt="HL" height="105" /> 
-<img src="images/kai.jpg" alt="KC" height="105" /> 
+<p><img src="images/150x-Jureleskovec.pg" alt="JL" height="105" /> 
+<img src="images/150x-martin.png" alt="MW" height="105" /> 
+<img src="images/150x-huanliu2014.jpg" alt="HL" height="105" /> 
+<img src="images/150x-kai.jpg" alt="KC" height="105" /> 
 </p>
 <p><img src="images/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
 <img src="images/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
