@@ -49,6 +49,14 @@ awards include the inaugural Australian Museum Eureka Prize for Excellence
 in Data Science. |  | 
 
 
+## Saso Dzeroski - TBA
+
+TBA
+
+<img style="float: right;" src="images/Webb.jpg" width="200"> 
+| *Bio*: TBA. |  | 
+
+
 ## Latifur Khan (Department of Computer Science, University of Texas at Dallas) - Data to Knowledge: Modernizing Political Event Data for Big Data Social Science Research
 
 We have developed the software and big data infrastructure to provide machine coded event data from news reports from historical and real-time inputs from the web. The project is ongoing and will produce coded news reports based on NLP applications across English, Spanish, and Arabic news reports. Human annotations and validations are conducted for data validation and cross-lingual support. Geo-location of the events is also improved for better spatial resolutions. 
