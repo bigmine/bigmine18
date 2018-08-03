@@ -49,12 +49,23 @@ awards include the inaugural Australian Museum Eureka Prize for Excellence
 in Data Science. |  | 
 
 
-## Saso Dzeroski - TBA
+## Sašo Džeroski (Jozef Stefan Institute and the Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins, Ljubljana, Slovenia) - Multi-target prediction on data streams
 
-TBA
+Starting from tree-based regression methods for data streams, we have developed a number of approaches for on-line multi-target prediction. These cover different multi-target prediction tasks such as multi-target regression, multi-label classification and hierarchical versions of these tasks. These also cover a range of tree-based methods, including individual decision trees, option trees and tree ensembles (bagging and random forests). Finally, we have recently also addressed the task of semi-supervised multi-target prediction on data streams. The talk will give an overview of these developments, based on on-line learning of predictive clustering trees, and discuss further research in this area (incl. change detection and feature ranking).
 
 <img style="float: right;" src="images/saso.jpg" width="200"> 
-| *Bio*: TBA. |  | 
+| *Bio*: Sašo Džeroski is a scientific councillor at the Jozef Stefan Institute and the Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins, both in Ljubljana, Slovenia. He is also a full professor at the Jozef Stefan International Postgraduate School and the University of Ljubljana, Faculty of Computer and Information Sciences. His research group investigates machine learning and data mining (including structured output prediction and automated modeling of dynamic systems) and their applications (in environmental sciences, incl. ecology/ecological modelling, and life sciences, incl. systems biology/systems medicine).
+
+The publication record of Professor Džeroski includes 30 volumes (1 co-authored book, 4 co-edited research mnographs, 8 conference proceedings published with reputed publishers, 10 workshop proceedings and 7 journal special issues), more than 40 book chapters, more than 150 journal papers (more than 125 in journals with impact factors), and more than 290 conference papers. The latest two research monographs he has co-edited are »Computational Discovery of Scientific Knowledge« (2007) and »Inductive Databases and Constraint-Based Data Mining« (2010). His work is highly cited, with more than 17000 citations and an h-index value of 59 (in Google Scholar on 31 JUL 2018).
+
+He has participated in many international research projects and coordinated three of them in the past. Most recently, he lead the FET XTrack project MAESTRA (Learning from Massive, Incompletely annotated, and Structured Data). He is currently one of the principal investigators in the FET Flagship Human Brain Project. He has been scientific and/or organizational chair of numerous international conferences, including ECML PKDD 2017, DS-2014, MLSB-2009/10, ECEM and EAML-2004, ICML-1999 and ILP-1997/99: ICML and ECML PKDD are two of the most prominent scientific events in the area of machine learning and data science.
+
+Saso Dzeroski received his Ph.D. degree in computer science from the University of Ljubljana in 1995 and was awarded a Jožef Stefan Golden Emblem Prize for his outstanding doctoral dissertation. Immediately thereafter, he received a fellowship from ERCIM, The European Research Consortium for Informatics and Mathematics, awarded to 5% of applicants. He became a fellow of EurAI, the European Association of Artificial Intelligence (formerly ECCAI) in 2008, in recognition for his "Pioneering Work in the field of AI and Outstanding Service for the European AI community". In 2015, he was elected a foreign member of the Macedonian Academy of Sciences and Arts and in 2016 a member of Academia Europea (European Academy of Humanities, Letters and Sciences). 
+
+- [Homepage](http://kt.ijs.si/SasoDzeroski/)
+- [Google scholar profile](https://scholar.google.com/citations?hl=en&user=_aIV-aEAAAAJ)
+
+|  | 
 
 
 ## Latifur Khan (Department of Computer Science, University of Texas at Dallas) - Data to Knowledge: Modernizing Political Event Data for Big Data Social Science Research
