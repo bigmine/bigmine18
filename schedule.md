@@ -26,6 +26,7 @@ End time: 5pm
 |               | *Temporal Approach to Opinion Fraud Detection*  |
 | 9:30-10:00 | **Coffee Break** |
 | 10:30-11:30 | **Invited Talk by Saso Dzeroski (IJS Ljubljana)** |
+| |* Multi-target prediction on data streams* |
 | 11:30-12:00 | **Paper Session 2** |
 |               | *Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series*  |
 |               | *Fall Detection from Physical Activity Monitoring Data*	 |
