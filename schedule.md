@@ -26,9 +26,9 @@ End time: 5pm
 |               | *Temporal Approach to Opinion Fraud Detection* |
 |               |   Rachna Rani and Durga Toshniwal. |
 | 9:30-10:00 | **Coffee Break** |
-| 10:30-11:30 | **Keynote Talk by Saso Dzeroski (IJS Ljubljana)** |
+| 10:00-11:00 | **Keynote Talk by Saso Dzeroski (IJS Ljubljana)** |
 | |*Multi-target prediction on data streams* |
-| 11:30-12:00 | **Paper Session 2** |
+| 11:00-12:00 | **Paper Session 2** |
 |               | *Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series*|
 |               |   Dan Li, Dacheng Chen, Jonathan Goh and See-Kiong Ng |
 |               | *Fall Detection from Physical Activity Monitoring Data*|
